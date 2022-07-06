@@ -1,0 +1,7 @@
+20:39: 0=>[INFO]: zookeeper init success
+20:39: 0=>[INFO]: znode create  success...path: /UserServiceRpc/Register
+20:39: 0=>[INFO]: znode create  success...path: /UserServiceRpc/Login
+20:40: 5=>[INFO]: zookeeper init success
+20:40: 5=>[INFO]: zookeeper init success
+20:47:23=>[INFO]: zookeeper init success
+20:47:39=>[INFO]: zookeeper init success

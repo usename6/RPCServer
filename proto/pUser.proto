@@ -1,0 +1,8 @@
+syntax = "proto3";
+package DAO;
+message pUser
+{
+    int32 id = 1;   // 编号从1开始
+    string username = 2;
+    string password =  3;
+}
